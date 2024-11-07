@@ -1,0 +1,3 @@
+C:/Users/rrivas/CLionProjects/prog3_2024_2_busqueda_lineal/cmake-build-debug/CMakeFiles/prog3_2024_2_busqueda_lineal.dir
+C:/Users/rrivas/CLionProjects/prog3_2024_2_busqueda_lineal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rrivas/CLionProjects/prog3_2024_2_busqueda_lineal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
